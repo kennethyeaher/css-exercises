@@ -1,3 +1,16 @@
+# CSS Practice with The Odin Project
+
+My practice fork of [The Odin Project's CSS exercises](https://github.com/TheOdinProject/css-exercises). My changes focus on the introductory exercises: CSS methods, class and ID selectors, grouping, chaining, and descendant selectors. Other directories contain upstream exercises and solutions; their presence is not a claim that I completed them.
+
+![The CSS methods exercise rendered with external, internal, and inline styles.](docs/readme/preview.png)
+
+Open an exercise's `index.html` in a browser to inspect it. The capture above shows `foundations/intro-to-css/01-css-methods/index.html`. No build step is needed for that exercise.
+
+The original curriculum guidance is preserved below. Exercise material and official solutions belong to the upstream project and remain covered by its [license](LICENSE).
+
+<details>
+<summary>Original upstream README</summary>
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
@@ -32,3 +45,16 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px` or that the margin is _exactly_ `42px`.
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises, we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
+
+</details>
+
+---
+
+## Author
+
+**Kenneth Yeaher**  
+Master of Information Management  
+University of Maryland, College Park  
+[![LinkedIn: Kenneth Yeaher](https://img.shields.io/badge/LinkedIn-Kenneth_Yeaher-0A66C2?style=flat)](https://www.linkedin.com/in/kennethyeaher/)
+
+`CSS` · `Selectors` · `The Odin Project`
