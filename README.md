@@ -1,5 +1,9 @@
 # CSS Practice with The Odin Project
 
+![HTML5](docs/readme/badges/html5-E34F26.svg)
+![CSS](docs/readme/badges/css-663399.svg)
+![Git](docs/readme/badges/git-F05032.svg)
+
 My practice fork of [The Odin Project's CSS exercises](https://github.com/TheOdinProject/css-exercises). My changes focus on the introductory exercises: CSS methods, class and ID selectors, grouping, chaining, and descendant selectors. Other directories contain upstream exercises and solutions; their presence is not a claim that I completed them.
 
 ![The CSS methods exercise rendered with external, internal, and inline styles.](docs/readme/preview.png)
@@ -7,6 +11,18 @@ My practice fork of [The Odin Project's CSS exercises](https://github.com/TheOdi
 Open an exercise's `index.html` in a browser to inspect it. The capture above shows `foundations/intro-to-css/01-css-methods/index.html`. No build step is needed for that exercise.
 
 The original curriculum guidance is preserved below. Exercise material and official solutions belong to the upstream project and remain covered by its [license](LICENSE).
+
+## Where to start
+
+| Exercise | Focus of my changes |
+| --- | --- |
+| [CSS methods](foundations/intro-to-css/01-css-methods/) | Compare external, internal, and inline styling. |
+| [Class and ID selectors](foundations/intro-to-css/02-class-id-selectors/) | Target individual elements and shared groups. |
+| [Grouping selectors](foundations/intro-to-css/03-grouping-selectors/) | Share declarations without duplicating rules. |
+| [Chaining selectors](foundations/intro-to-css/04-chaining-selectors/) | Match elements using combined selectors. |
+| [Descendant combinator](foundations/intro-to-css/05-descendant-combinator/) | Scope styles to an element's position in the document. |
+
+Compare each implementation with its exercise README and self check before looking at the upstream solution. This fork records practice with the cascade and selector behavior, not completion of the entire curriculum.
 
 <details>
 <summary>Original upstream README</summary>
