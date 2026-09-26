@@ -1,3 +1,41 @@
+<p align="center">
+  <img src="docs/readme/banner.svg" alt="CSS Workshop. Practice the layout, then inspect the result." width="100%">
+</p>
+
+<p align="center">
+  <img alt="HTML + CSS" src="https://img.shields.io/badge/HTML%20%2B%20CSS-514127?style=flat-square">
+  <a href="https://github.com/TheOdinProject/css-exercises"><img alt="View upstream repository" src="https://img.shields.io/badge/source-upstream-64748b?style=flat-square"></a>
+</p>
+
+<p align="center"><a href="foundations/">Foundations</a> &nbsp; · &nbsp; <a href="intermediate-html-css/">Intermediate exercises</a> &nbsp; · &nbsp; <a href="advanced-html-css/">Advanced exercises</a></p>
+
+## Overview
+
+A personal practice fork of The Odin Project’s CSS exercise collection. It keeps the original prompts, desired-outcome images, self-checks, and reference solutions together so each exercise can be studied in context.
+
+This repository is a personal fork of [the original exercise collection](https://github.com/TheOdinProject/css-exercises). The original instructions are retained below.
+
+## At a glance
+
+| Area | What to look for |
+| --- | --- |
+| **Foundations** | Selectors, the cascade, spacing, and Flexbox. |
+| **Intermediate** | Grid positioning and larger responsive layouts. |
+| **Advanced** | Animation exercises, including hover, popup, and dropdown behavior. |
+
+## Start here
+
+Choose an exercise, read its local README, and open its `index.html` in a browser. Compare your work with the provided outcome and self-check before reading the solution.
+
+## Scope
+
+The exercise collection, prompts, and reference solutions belong to The Odin Project and its contributors. This fork does not claim authorship of the upstream curriculum or completion of every exercise.
+
+---
+
+<details>
+<summary><strong>Original upstream guide and contribution instructions</strong></summary>
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
@@ -32,3 +70,5 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px` or that the margin is _exactly_ `42px`.
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises, we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
+
+</details>
